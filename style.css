@@ -1,0 +1,48 @@
+body{
+    background-color: gray;
+}
+.box11{
+    background-color:orangered;
+    padding: 50px;
+    border-radius: 25px;
+    height: 10px;
+    width: 200px;
+    margin-bottom: 15px;
+    
+}
+.box1{
+    background-color:orangered;
+    padding: 50px;
+    border-radius: 25px;
+    height: 10px;
+    width: 200px;
+    margin-bottom: 15px;
+    text-align: center;
+
+
+}
+.box2{
+    background-color:orangered;
+    padding: 50px;
+    border-radius: 25px;
+    height: 10px;
+    width: 200px;
+    margin-bottom: 15px;
+}
+.box3{
+    background-color:orangered;
+    padding: 50px;
+    border-radius: 25px;
+    height: 10px;
+    width: 200px;
+    margin-bottom: 15px;
+}
+.pp1{
+    background-color: orangered;
+    padding: 50px;
+    border-radius: 30px;
+    height: 130px;
+    width: 200px;
+    margin-bottom: 15px;
+    text-align: center;
+}
