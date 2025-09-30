@@ -1,16 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
     background-color: gray;
 }
-.box11{
+.a_pagina_inicial{
     background-color:orangered;
     padding: 50px;
     border-radius: 25px;
     height: 10px;
     width: 200px;
     margin-bottom: 15px;
+    display: inline-block;
+    text-align: center; 
+    margin-right: 20px;
+    box-shadow: 10px 10px 10px red ;
     
 }
-.box1{
+.a_sobre{
+    background-color:orangered;
+    padding: 50px;
+    border-radius: 25px;
+    height: 10px;
+    width: 200px;
+    margin-bottom: 15px;
+    display: inline-block;
+    text-align: center; 
+    margin-right: 20px;
+    box-shadow: 10px 10px 10px red ;
+
+}
+.a_qualidades{
+    background-color:orangered;
+    padding: 50px;
+    border-radius: 25px;
+    height: 10px;
+    width: 200px;
+    margin-bottom: 15px;
+    display: inline-block;
+    text-align: center; 
+    margin-right: 20px;
+    box-shadow: 10px 10px 10px red ;
+}
+.a_contatos{
     background-color:orangered;
     padding: 50px;
     border-radius: 25px;
@@ -18,31 +51,121 @@ body{
     width: 200px;
     margin-bottom: 15px;
     text-align: center;
-
-
+    display: inline-block;
+    margin-right: 20px;
+    box-shadow: 10px 10px 10px red ;
 }
-.box2{
+.a_quem_sou_eu{
     background-color:orangered;
     padding: 50px;
     border-radius: 25px;
-    height: 10px;
-    width: 200px;
-    margin-bottom: 15px;
-}
-.box3{
-    background-color:orangered;
-    padding: 50px;
-    border-radius: 25px;
-    height: 10px;
-    width: 200px;
-    margin-bottom: 15px;
-}
-.pp1{
-    background-color: orangered;
-    padding: 50px;
-    border-radius: 30px;
-    height: 130px;
-    width: 200px;
+    height: 300px;
+    width: 500px;
     margin-bottom: 15px;
     text-align: center;
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 20px 20px 10px red;
 }
+    .titulo_sobre{
+        margin-top: 0px;
+    }
+    .titulo_sobre2{
+        margin-top: -10px;
+    }   
+    .imagem_rosto{
+        border-radius: 50%;
+        height: 250px; 
+        width: 250px;
+        margin-left: 150px;
+        margin-top: 20px;
+        box-shadow: 20px 20px 10px red;
+    }
+    .titulo3{
+     background-color:orangered;
+    padding-bottom: 70px;
+    margin-top: 30px;
+    padding-top: 10px;
+    border-radius: 25px;
+    height: 110px;
+    width: 550px;
+    text-align: center;
+    box-shadow: 10px 10px 10px red ;
+    margin-inline: auto;
+    }
+    .subtitulo{
+        background-color:orangered;
+        padding-bottom: 70px;
+        margin-top: 30px;
+        padding-top: 70px;
+        border-radius: 25px;
+        height: 300px;
+        width: 500px;
+        text-align: center;
+        box-shadow: 10px 10px 10px red ;
+        margin-inline: auto;
+    }
+    .subtitulo_02{
+        margin-top: -25px;
+    }
+    .titulo4{
+        background-color:orangered;
+    padding-bottom: 70px;
+    margin-top: 30px;
+    padding-top: 10px;
+    border-radius: 25px;
+    height: 110px;
+    width: 560px;
+    text-align: center;
+    box-shadow: 10px 10px 10px red ;
+    margin-inline: auto;
+    }
+    .subtitulo1{
+        background-color:orangered;
+        padding-bottom: 70px;
+        margin-top: 30px;
+        padding-top: 70px;
+        border-radius: 25px;
+        height: 300px;
+        width: 500px;
+        text-align: center;
+        box-shadow: 10px 10px 10px red ;
+        margin-inline: auto;
+    }
+    .subtitulo_01{
+        margin-top: -15px;
+    }
+    .titulo5{
+        background-color:orangered;
+    padding-bottom: 70px;
+    margin-top: 30px;
+    padding-top: 10px;
+    border-radius: 25px;
+    height: 110px;
+    width: 560px;
+    text-align: center;
+    box-shadow: 10px 10px 10px red ;
+    margin-inline: auto;
+    }
+    .subtitulo2{
+        background-color:orangered;
+        margin-top: 30px;
+        border-radius: 25px;
+        height: 340px;
+        width: 520px;
+        box-shadow: 10px 10px 10px red ;
+        margin-inline: auto;
+    }
+    .imagem_icone{
+        border-radius: 50%;
+        height: 100px; 
+        width: 100px;
+        box-shadow: 10px 10px 10px greenyellow;
+    }
+    .imagem_icone2{
+        border-radius: 50%;
+        height: 100px; 
+        width: 100px;
+        box-shadow: 10px 10px 10px red
+    }
